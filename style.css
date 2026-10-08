@@ -154,3 +154,13 @@ button:disabled {
         font-size: 42px;
     }
 }
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #555;
+    font-size: 14px;
+}
+
+footer strong {
+    color: #168acb;
+}
